@@ -1,4 +1,6 @@
 #!/bin/bas
 apt-get update
 apt-get install apache2 -y
+servive apache2 start
+
 
