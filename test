@@ -1,2 +1,3 @@
-this is my new commit
-add  nne date
+#!/bin/bash
+touch Rk{1..9}
+
