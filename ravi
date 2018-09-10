@@ -1,6 +1,2 @@
-hsclknsadclkn';,c
-lksmncldsMC'
-SD.C
-LKSJNDCLKDNSC
-
-modifide data 
+#!/bin/bash
+touch test{1..9}
