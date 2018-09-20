@@ -1,2 +1,5 @@
-this is my new commit
-add  nne date
+#!/bin/bash
+touch test{1..9}
+df -h
+
+
